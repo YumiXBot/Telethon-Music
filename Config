@@ -3,15 +3,15 @@ import os
 class Config(object):
     API_ID = int(6435225) #dont change
     API_HASH = "4e984ea35f854762dcde906dce426c2d" #dont change 
-    BOT_TOKEN = "" #fill your telegram bot token
-    STRING_SESSION = "" #an Telethon Session 
+    BOT_TOKEN = "6127476417:AAHoEQnx8Q-5UHI1_hBy-YR5b1CmTar3tuY" #fill your telegram bot token
+    STRING_SESSION = "1BVtsOJQBu2Ig6ankQ_EZBGl-7IkV8svybov4S8QV16FHkmR9JxHUTRhFltIdz7qWREV9ox3rzFDd33fqkcZJp5e82PF1t8LYShVd30tqBFYm5VL2LvRH-h9ugp1lXPvRfPmcPDiP6vpIZwGnixOpguhogQZrisdOe0zlBJs4qfFQos7FNC8XJXgOeD8WRU9owkEBM2Pqs68YBx3zdR4fuMMRlrVVdLh3TvObQPL1e29ja1Shn4LCQgqWv5XIGt1CkGZFvic4hXykbQVDctQrHBXPTFZYpXW_uAkPuLllBasOFY8Wta4Qd5NS_lkMmxFlG7rNMWiNezbQTDbT49E5EU8OHy0UEs4=" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
     HEROKU_MODE = None #dont change
-    BOT_USERNAME = "Zaid2_Robot" #Your Bot username 
-    SUPPORT = "TheSupportChat" #optional
-    CHANNEL = "TheUpdatesChannel" #optional
-    START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
+    BOT_USERNAME = "AlonePvtBot" #Your Bot username 
+    SUPPORT = "AlonesHeaven" #optional
+    CHANNEL = "AloneXBots" #optional
+    START_IMG = "https://telegra.ph/file/f857bd830b793c86019ab.jpg"
     CMD_IMG = "https://telegra.ph/file/66518ed54301654f0b126.png"
-    ASSISTANT_ID = int(1234567890) #your string added account user id..
+    ASSISTANT_ID = int(5693644992) #your string added account user id..
     AUTO_LEAVE_TIME = int(54000) # in seconds
     AUTO_LEAVE = True #Optional
